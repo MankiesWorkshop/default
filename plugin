@@ -607,5 +607,6 @@
   "yuri-val/th-sensor-card",
   "zanac/temperature-heatmap-card",
   "zanna-37/hass-swipe-navigation",
+
   "zeronounours/lovelace-energy-entity-row"
 ]
